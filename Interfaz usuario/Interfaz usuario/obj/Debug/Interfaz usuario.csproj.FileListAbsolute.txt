@@ -1,0 +1,9 @@
+C:\Users\Jesus\Documents\SharpDevelop Projects\Interfaz usuario\Interfaz usuario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesus\Documents\SharpDevelop Projects\Interfaz Usuario\Interfaz Usuario\bin\Debug\Interfaz Usuario.exe.config
+C:\Users\Jesus\Documents\SharpDevelop Projects\Interfaz Usuario\Interfaz Usuario\bin\Debug\Interfaz Usuario.exe
+C:\Users\Jesus\Documents\SharpDevelop Projects\Interfaz Usuario\Interfaz Usuario\bin\Debug\Interfaz Usuario.pdb
+C:\Users\Jesus\Documents\SharpDevelop Projects\Interfaz Usuario\Interfaz Usuario\obj\Debug\Interfaz Usuario.exe
+C:\Users\Jesus\Documents\SharpDevelop Projects\Interfaz Usuario\Interfaz Usuario\obj\Debug\Interfaz Usuario.pdb
+C:\Users\Jesus\Documents\SharpDevelop Projects\Interfaz Usuario\Interfaz Usuario\obj\Debug\Interfaz_Usuario.MainForm.resources
+C:\Users\Jesus\Documents\SharpDevelop Projects\Interfaz Usuario\Interfaz Usuario\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Jesus\Documents\SharpDevelop Projects\Interfaz Usuario\Interfaz Usuario\obj\Debug\GenerateResource.write.1.tlog
